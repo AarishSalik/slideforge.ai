@@ -1,0 +1,22 @@
+export const allExamplePrompts = [
+  "Create a pitch deck for a new AI-powered language learning app.",
+  "Generate a presentation on the history of space exploration for a high school class.",
+  "Develop a business quarterly review presentation focusing on sales and marketing.",
+  "Outline a talk on the benefits of mindfulness and meditation.",
+  "Create a presentation about the future of renewable energy.",
+  "Explain the basics of quantum computing in a simple, visual way.",
+  "Develop a presentation on the impact of social media on society.",
+  "Create a historical overview of the Roman Empire.",
+  "Generate a presentation on the principles of sustainable agriculture.",
+  "Outline a talk about the importance of cybersecurity in the modern world.",
+  "Create a presentation explaining the science of climate change.",
+  "Develop a pitch deck for a direct-to-consumer sustainable fashion brand.",
+  "Generate a training module on effective communication for new managers.",
+  "Create a presentation on the wonders of the deep sea.",
+  "Outline a financial literacy workshop for college students.",
+  "Develop a presentation on the evolution of video games.",
+  "Create a talk on the basics of artificial intelligence and machine learning.",
+  "Generate a presentation about the psychology of motivation.",
+  "Create a pitch for a non-profit organization focused on local wildlife conservation.",
+  "Develop a presentation on the cultural significance of the Renaissance."
+];
